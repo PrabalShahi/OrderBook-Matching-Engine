@@ -7,7 +7,11 @@ The project is a crypto-currency exchange platform built incrementally over five
 
 Key Features
 Object-Oriented Design: The platform is built using OOP principles, with well-defined classes and modular design.
+
 Data Handling: Efficient handling and representation of different data types.
+
 Interactive Console: User interaction is managed through a console interface.
+
 File Parsing: Ability to read and process data from files.
+
 Control Flow: Implementation of various control flow mechanisms to manage program execution.
