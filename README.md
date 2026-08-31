@@ -5,7 +5,7 @@ This repository contains the my code developed during a specialisation course on
 Project Overview
 The project is a crypto-currency exchange platform built incrementally over five courses. The platform showcases a variety of programming techniques, from basic control flow and input/output to file parsing, object-oriented techniques, and user interaction in the console.
 
-# Key Features
+## Key Features
 
 Object-Oriented Design: The platform is built using OOP principles, with well-defined classes and modular design.
 
